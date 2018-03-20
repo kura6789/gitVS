@@ -1,2 +1,2 @@
 działa?
-nie
+jak nie
