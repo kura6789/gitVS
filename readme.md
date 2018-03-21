@@ -1,2 +1,1 @@
-działa?
-jak nie
+Visual Studio Code - Git Repository
