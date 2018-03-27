@@ -1,1 +1,1 @@
-Visual Studio Code - Git Repository
+Visual Studio Code - Git Repository branch
